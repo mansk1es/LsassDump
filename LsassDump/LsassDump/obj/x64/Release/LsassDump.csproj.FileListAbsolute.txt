@@ -1,0 +1,14 @@
+C:\VisualStudio\LsassDump\LsassDump\obj\x64\Release\LsassDump.csproj.AssemblyReference.cache
+C:\VisualStudio\LsassDump\LsassDump\obj\x64\Release\LsassDump.csproj.CoreCompileInputs.cache
+C:\VisualStudio\LsassDump\LsassDump\bin\x64\Release\LsassDump.exe.config
+C:\VisualStudio\LsassDump\LsassDump\bin\x64\Release\LsassDump.exe
+C:\VisualStudio\LsassDump\LsassDump\bin\x64\Release\LsassDump.pdb
+C:\VisualStudio\LsassDump\LsassDump\obj\x64\Release\LsassDump.exe
+C:\VisualStudio\LsassDump\LsassDump\obj\x64\Release\LsassDump.pdb
+C:\Whitelisted\VisualStudio\LsassDump\LsassDump\bin\x64\Release\LsassDump.exe.config
+C:\Whitelisted\VisualStudio\LsassDump\LsassDump\bin\x64\Release\LsassDump.exe
+C:\Whitelisted\VisualStudio\LsassDump\LsassDump\bin\x64\Release\LsassDump.pdb
+C:\Whitelisted\VisualStudio\LsassDump\LsassDump\obj\x64\Release\LsassDump.csproj.AssemblyReference.cache
+C:\Whitelisted\VisualStudio\LsassDump\LsassDump\obj\x64\Release\LsassDump.csproj.CoreCompileInputs.cache
+C:\Whitelisted\VisualStudio\LsassDump\LsassDump\obj\x64\Release\LsassDump.exe
+C:\Whitelisted\VisualStudio\LsassDump\LsassDump\obj\x64\Release\LsassDump.pdb

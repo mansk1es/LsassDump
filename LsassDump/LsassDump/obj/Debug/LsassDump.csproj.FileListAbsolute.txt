@@ -1,0 +1,2 @@
+C:\VisualStudio\LsassDump\LsassDump\obj\Debug\LsassDump.csproj.AssemblyReference.cache
+C:\VisualStudio\LsassDump\LsassDump\obj\Debug\LsassDump.csproj.CoreCompileInputs.cache
